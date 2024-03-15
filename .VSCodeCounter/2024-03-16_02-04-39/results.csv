@@ -1,0 +1,8 @@
+"filename", "language", "Go", "comment", "blank", "total"
+"/home/crystal9210/test_webapp/util/config.go", "Go", 34, 0, 8, 42
+"/home/crystal9210/test_webapp/util/currency.go", "Go", 15, 0, 3, 18
+"/home/crystal9210/test_webapp/util/password.go", "Go", 17, 0, 5, 22
+"/home/crystal9210/test_webapp/util/password_test.go", "Go", 21, 0, 8, 29
+"/home/crystal9210/test_webapp/util/random.go", "Go", 43, 0, 12, 55
+"/home/crystal9210/test_webapp/util/role.go", "Go", 5, 0, 2, 7
+"Total", "-", 135, 0, 38, 173

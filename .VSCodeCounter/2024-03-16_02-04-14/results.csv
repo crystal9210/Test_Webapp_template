@@ -1,0 +1,4 @@
+"filename", "language", "Go", "comment", "blank", "total"
+"/home/crystal9210/test_webapp/mail/sender.go", "Go", 56, 0, 10, 66
+"/home/crystal9210/test_webapp/mail/sender_test.go", "Go", 23, 0, 8, 31
+"Total", "-", 79, 0, 18, 97
